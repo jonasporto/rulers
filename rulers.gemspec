@@ -35,5 +35,4 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rack-test", "~> 0.6"
 
   spec.add_runtime_dependency "rack", "~> 2.0"
-
 end
